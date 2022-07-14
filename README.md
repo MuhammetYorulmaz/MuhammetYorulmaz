@@ -20,7 +20,9 @@
 🛠️ **Languages&Tools**
 <br/>
 <p align="left"> <a href="https://www.python.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40" width="40" /></a>  
-
+<a href="https://www.oracle.com/tr/database/technologies/appdev/plsql.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="plsql" height="40" width="40" /></a>  
+<a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" height="40" width="40" /></a>  
+<a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mssql" height="40" width="40" /></a> 
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=MuhammetYorulmaz&show_icons=true&theme=github_light)
