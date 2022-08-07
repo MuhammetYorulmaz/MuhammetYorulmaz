@@ -11,7 +11,7 @@
 </h1>
 
 
-***<div align="center">I'm Muhammet, I'm working as an `Assistant Artificial Intelligence Systems Specialist` in a company in Turkey. I work on topics such as `Data Analysis`, `Machine Learning`, `Deep Learning`, `Natural Language Processing`. I also develop myself in subjects such as `Image Processing` and `Big Data`.</div>***
+***<div align="center">I'm Muhammet, I'm working as an `Assistant Artificial Intelligence Systems Specialist` in Eksim Holding in Turkey. I work on topics such as `Data Analysis`, `Machine Learning`, `Deep Learning`, `Natural Language Processing`. I also develop myself in subjects such as `Image Processing` and `Big Data`.</div>***
 
 🔗 **Connect with me**
 
