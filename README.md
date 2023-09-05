@@ -8,10 +8,6 @@
 
 ***<div align="center">My name is Muhammet, and I'm an experienced data scientist with a few years of expertise in the field of data science. I am constantly improving myself in Data & Statistical Analysis, Data Visualization, Machine & Deep Learning, Time Series Modeling and Natural Language Processing and I try to produce projects in these areas.</div>***
 
-🔗 **Connect with me**
-
-<a href="https://www.linkedin.com/in/muhammet-yorulmaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-
 🛠️ **Languages&Tools**
 <br/>
 <p align="left"> <a href="https://www.python.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40" width="40" /></a>  
