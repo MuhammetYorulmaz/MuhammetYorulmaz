@@ -1,9 +1,4 @@
 
-
-![Alt Text](https://hellofuture.orange.com/app/uploads/2018/01/Intro-HELLO-FUTURE-1920x1080_v2.gif)
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MuhammetYorulmaz/MuhammetYorulmaz">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋&center=true&size=28">
@@ -11,7 +6,7 @@
 </h1>
 
 
-***<div align="center">I'm Muhammet, I'm working as an `Assistant Artificial Intelligence Systems Specialist` in Eksim Holding in Turkey. I work on topics such as `Data Analysis`, `Machine Learning`, `Deep Learning`, `Natural Language Processing`. I also develop myself in subjects such as `Image Processing` and `Big Data`.</div>***
+***<div align="center">My name is Muhammet, and I'm an experienced data scientist with a few years of expertise in the field of data science. I am constantly improving myself in Data & Statistical Analysis, Data Visualization, Machine & Deep Learning, Time Series Modeling and Natural Language Processing and I try to produce projects in these areas.</div>***
 
 🔗 **Connect with me**
 
@@ -32,13 +27,9 @@
 <br>  
 
 <h2> My GitHub Stats <img src = "https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif" width = 28px> </h2>
-
-![GitHub metrics](https://metrics.lecoq.io/MuhammetYorulmaz)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammetYorulmaz)](https://github.com/MuhammetYorulmaz/github-readme-stats)
   
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MuhammetYorulmaz&theme=green)](https://github.com/MuhammetYorulmaz/github-readme-activity-graph)
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MuhammetYorulmaz)  
 
 
